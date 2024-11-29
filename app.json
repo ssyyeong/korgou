@@ -1,4 +1,5 @@
 {
   "name": "korgouApp",
-  "displayName": "korgouApp"
+  "displayName": "korgouApp",
+  "platforms": ["ios", "android", "web"]
 }
